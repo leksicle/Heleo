@@ -1,5 +1,27 @@
-h1 {
+.header {
 
-color: rgb(180, 25, 25);
+    display: flex;
+    height: 40vh;
+
+}
+
+.header #left {
+
+    flex: 4;
+    justify-content: center;
+
+}
+.header #left img {
+
+    height: 100%;
+    width: auto;
+
+}
+
+.header #right {
+
+    flex: 6;
+    justify-content: right;
+    background-color: #ff8989;
 
 }
