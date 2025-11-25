@@ -1,0 +1,11 @@
+# macOS trash file
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# node modules (if ever)
+node_modules/
+
+# build output
+dist/
